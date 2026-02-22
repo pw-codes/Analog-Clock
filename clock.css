@@ -78,3 +78,17 @@ body {
   width: 500px;
   background-color: coral;
 }
+
+#clockcontainer {
+  height: 500px;
+  margin: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#clock {
+  color: #ffd700;
+  font-size: 150px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
